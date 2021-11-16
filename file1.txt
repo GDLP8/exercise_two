@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 initial
 
 not so initial
+=======
+initial changed!
+>>>>>>> 10cd148a5ef88cda8c6a66d7781a5926a51bf8a6
